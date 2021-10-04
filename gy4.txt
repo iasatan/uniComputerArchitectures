@@ -1,0 +1,29 @@
+Name: Adam Satan
+Phone: +36-30-000-0000
+Email: satanadam@gmail.com
+Postal code: 9999
+Job: Student
+License plate number: AAA-000
+
+Name: Firstname Lastname
+Phone: +36-70-111-1111
+Email: first.last@email.org
+Postal code: 9999
+Job: Unemployed
+License plate number: ABC-123
+
+Name: Fucking Moron
+Phone: +36-20-222-2222
+Email: f_moron@email.hu
+Postal code: 9999
+Job: Politician
+
+Name: Ben Uncle
+Phone: +36-99-456-789
+Job: Pensioner
+Postal code: 9999
+
+Name: You
+Job: Student
+
++36501010102
