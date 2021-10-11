@@ -1,0 +1,17 @@
+./test.sh "tarka alma babra marha falna" 12 2.4 "2021 10 11"
+
+x="durka durka ching chong ooga booga"
+
+1, alma kicselésése "barack"-ra
+2, dátum tömb első elemének összeszorzása a tört szám négyzetével
+y=${$4[0]:0:4}
+echo "$y*$3*$3"|bc
+3, minden kapott paraméter kiíratása
+4, dátum tömb kiíratása fordított sorrendben
+5, x karakterszámának elosztása a 2. paraméterrel, eltárolni változóban visszadni a négyzetét
+karakterszam=${#x}
+y="$(($karakterszam/$2))"
+echo $(($y*$y))
+6, aktuális mappa 10-14. karakterének kiírása
+
+https://github.com/iasatan/uniComputerArchitectures
